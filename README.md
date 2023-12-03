@@ -1,5 +1,5 @@
-# Hey there 👋
-I'm Sam and welcome to my github!
+                                          # Hi, I'm Sam!! 👋
+
 <img src="https://github.com/bittermelonsam/bittermelonsam/assets/76081867/7ebaea99-5cb9-4046-8eaa-647c6be5d258" alt="my banner"/>
 
 
