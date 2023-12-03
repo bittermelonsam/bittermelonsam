@@ -1,7 +1,7 @@
 <table width="500">
   <tr>
     <td align="left" width="100%">🔵</td>
-    <td align="right"><h6>🔵</h6></td>
+    <td align="right"><h6>⭕️</h6></td>
   </tr>
 </table>
 <div align="center">
