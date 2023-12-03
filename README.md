@@ -2,7 +2,7 @@
   <h1>Hi, I'm Sam!! 👋</h1>
 </div>
   <div align="center">
-    <h2>I'm a full stack engineer</h2>
+    <h3>I'm a full stack engineer</h3>
   </div>
 
 
