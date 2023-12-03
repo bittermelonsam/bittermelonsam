@@ -11,6 +11,8 @@
     <h3>I'm a full stack software engineer</h3>
   </div>
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=bittermelonsam.visitor-badge&left_color=green&right_color=red)
+
 
 
 
