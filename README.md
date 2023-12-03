@@ -1,7 +1,9 @@
 <div align="center">
-  
   <h1>Hi, I'm Sam!! 👋</h1>
 </div>
+  <div>
+    <p>I'm a full stack engineer</p>
+  </div>
 
 
 
