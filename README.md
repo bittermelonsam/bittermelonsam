@@ -5,6 +5,7 @@
 </div>
   <div align="center">
     <h3>I'm a full stack software engineer</h3>
+    <h3>(╯°□°）╯︵ ┻━┻</h3>
   </div>
   
   [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
