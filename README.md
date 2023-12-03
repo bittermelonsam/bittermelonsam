@@ -8,16 +8,16 @@
     <h3>(╯°□°）╯︵ ┻━┻</h3>
   </div>
 
-   [![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 
+  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 
 
 
 
 
 <!--
+   [![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink
-  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 ### ⦿
 ⌱
 ⌬
