@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/bittermelonsam/bittermelonsam/assets/76081867/7ebaea99-5cb9-4046-8eaa-647c6be5d258" alt="my banner"/>
 <!--
 **bittermelonsam/bittermelonsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
