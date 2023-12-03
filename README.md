@@ -1,7 +1,9 @@
-<div>
-<h6>🔴</h6>
-<h6 align="right">🔴</h6> 
-</div>
+<table width="100%">
+  <tr>
+    <td align="left"><h6>🔴</h6></td>
+    <td align="right"><h6>🔴</h6></td>
+  </tr>
+</table>
 <div align="center">
   <h1>Hi, I'm Sam!! 👋</h1>
 </div>
