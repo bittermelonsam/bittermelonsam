@@ -1,4 +1,4 @@
- <h6>🔴</h6> 
+ <h2>🔴</h2> 
 <div align="center">
   <h1>Hi, I'm Sam!! 👋</h1>
 </div>
