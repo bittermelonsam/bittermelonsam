@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>[¬º-°]¬ Hi, I'm Sam..</h1>
+  <h1>[¬º-°]¬     Hi... I'm Sam..</h1>
 </div>
   <div align="center">
     <h3>I'm a full stack software engineer</h3>
