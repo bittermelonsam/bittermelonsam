@@ -2,8 +2,10 @@
   <h1>Hi, I'm Sam!! 👋</h1>
 </div>
   <div align="center">
-    <h3>I'm a full stack engineer</h3>
+    <h3>I'm a full stack software engineer</h3>
   </div>
+
+  ⚫ Black Circle
 
 
 
