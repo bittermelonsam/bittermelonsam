@@ -1,6 +1,9 @@
 <p align="center">
+  <h1>Welcome to My Bio Page!</h1>
+</p>
+<p align="center">
   
-<h1 style>Hi, I'm Sam!! 👋</h1>
+  <h1>Hi, I'm Sam!! 👋</h1>
 </p>
 
 <img src="https://github.com/bittermelonsam/bittermelonsam/assets/76081867/7ebaea99-5cb9-4046-8eaa-647c6be5d258" alt="my banner"/>
