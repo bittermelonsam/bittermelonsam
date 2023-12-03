@@ -1,7 +1,6 @@
 <div>
 <h6>🔴</h6>
 <h6 align="right">🔴</h6> 
- </div>
 </div>
 <div align="center">
   <h1>Hi, I'm Sam!! 👋</h1>
