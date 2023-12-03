@@ -11,7 +11,7 @@
     <h3>I'm a full stack software engineer</h3>
   </div>
 
-   <img src="https://visitor-badge.glitch.me/badge?page_id=bittermelonsam" alt="visitor badge"/>
+  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat-square)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 
 
 
