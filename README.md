@@ -5,9 +5,7 @@
     <h3>I'm a full stack software engineer</h3>
   </div>
 
-<div>
  # ⚫
-</div>
 
 
 
