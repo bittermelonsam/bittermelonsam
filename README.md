@@ -1,6 +1,6 @@
 <div>
 <h6>🔴</h6>
- <div align="left">
+ <div align="right">
 <h6>🔴</h6> 
  </div>
 </div>
