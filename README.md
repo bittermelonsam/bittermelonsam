@@ -11,17 +11,10 @@
   <div align="center" display="flex" align-content:"center">
 
   My IQ:
-  <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=plastic)</a>
+  <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
   
 
 </div>
-
-
-  ![Hit Count](https://img.shields.io/badge/My_IQ-blue?style=plastic)
-
-
-
-
 
 
 
