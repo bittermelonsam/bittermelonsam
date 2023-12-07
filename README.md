@@ -10,9 +10,7 @@
 
   <div align="center">
 
-  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/count)</a>
+
   <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
   
 
