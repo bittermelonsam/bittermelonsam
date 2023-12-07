@@ -10,7 +10,7 @@
 
   <div align="center">
 
-
+  My IQ:
   <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
   
 
