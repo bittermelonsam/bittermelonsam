@@ -19,7 +19,6 @@
 </div>
 
 
-  ![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)
   
 
 
@@ -29,6 +28,7 @@
 
 
 <!--
+  ![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)
   [
   ]
   (http://hits.dwyl.com/bittermelonsam/bittermelonsam)
