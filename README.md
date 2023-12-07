@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="border-bottom: 0">[¬º-°]¬</h1>
+  <h1 border-bottom=0>[¬º-°]¬</h1>
   <h1>Hi... I'm Sam..</h1>
 </div>
   <div align="center">
