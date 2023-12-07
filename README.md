@@ -17,7 +17,7 @@
 </div>
 
 
-  ![Static Badge](https://img.shields.io/badge/My_IQ-blue?style=plastic)
+  ![HitCount](https://img.shields.io/badge/My_IQ-blue?style=plastic)
 
 
 
