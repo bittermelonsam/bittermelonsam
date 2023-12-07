@@ -6,10 +6,10 @@
   <div align="center">
     <h3>I'm a frontend developer</h3>
     <h3>(╯°□°）╯︵ ┻━┻</h3>
+  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
   </div>
 
 
-  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 
 
 
