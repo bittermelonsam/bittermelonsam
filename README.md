@@ -8,7 +8,7 @@
     <h3>(╯°□°）╯︵ ┻━┻</h3>
   </div>
 
-  <div align="center" display="flex" flex-direction="column">
+  <div align="center" display="flex" justify-content:"center">
 
   My IQ:
   <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
