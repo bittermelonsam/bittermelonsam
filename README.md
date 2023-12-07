@@ -12,6 +12,9 @@
 
   My IQ:
   <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
+  <a href="">![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F{username}%2F{project}.json%3Fcolor%3Dpink)</a>
+  
+
   
 
 </div>
