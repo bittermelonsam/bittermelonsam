@@ -17,6 +17,7 @@
 </div>
 
 
+  https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink
 
 
 <!--
