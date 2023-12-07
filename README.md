@@ -1,4 +1,4 @@
-
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 <div align="center">
   <h1 style="display:none;">[¬º-°]¬</h1>
   <h1>Hi... I'm Sam..</h1>
