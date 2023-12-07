@@ -14,12 +14,13 @@
   <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
   
 
-  https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink
+  https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F{bittermelonsam}%2F{bittermelonsam}.json%3Fcolor%3Dpink
 
 </div>
 
 
-  
+  ![Static Badge](https://img.shields.io/badge/My_IQ-blue?style=plastic)
+
 
 
 
