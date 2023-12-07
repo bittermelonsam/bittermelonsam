@@ -11,7 +11,6 @@
   <div align="center" display="flex" align-content:"center">
 
   My IQ:
-  <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat&show=unique)</a>
   <a href="">![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink)</a>
   
   
@@ -19,11 +18,12 @@
 </div>
 
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink)
 
 
 
 <!--
+  <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat&show=unique)</a>
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbittermelonsam%2Fbittermelonsam.json%3Fcolor%3Dpink)
   ![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)
   [
   ]
