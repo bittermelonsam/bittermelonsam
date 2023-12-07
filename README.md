@@ -17,7 +17,7 @@
 </div>
 
 
-  ![HitCount](https://img.shields.io/badge/My_IQ-blue?style=plastic)
+  ![Hit Count](https://img.shields.io/badge/My_IQ-blue?style=plastic)
 
 
 
