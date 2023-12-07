@@ -14,8 +14,6 @@
   <a href="">![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)</a>
   
 
-  https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F{bittermelonsam}%2F{bittermelonsam}.json%3Fcolor%3Dpink
-
 </div>
 
 
