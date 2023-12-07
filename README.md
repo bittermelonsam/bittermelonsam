@@ -6,8 +6,17 @@
   <div align="center">
     <h3>I'm a frontend developer</h3>
     <h3>(╯°□°）╯︵ ┻━┻</h3>
-  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)](http://hits.dwyl.com/bittermelonsam/bittermelonsam)
   </div>
+
+  <div align="center">
+
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
+  [![HitCount](https://hits.dwyl.com/bittermelonsam/bittermelonsam.svg?style=flat)] 
+  (http://hits.dwyl.com/bittermelonsam/bittermelonsam)
 
 
 
