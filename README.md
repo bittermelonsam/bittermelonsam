@@ -1,9 +1,12 @@
 
-  <h1>[¬º-°]¬</h1>
+<div align="center">
+  <h1 border-bottom=0>[¬º-°]¬</h1>
   <h1>Hi.. I'm Sam..</h1>
-
+</div>
+  <div align="center">
     <h3>I'm a frontend developer</h3>
     <h3>(╯°□°）╯︵ ┻━┻</h3>
+  </div>
 
   <div align="center">
 
